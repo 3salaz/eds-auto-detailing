@@ -24,7 +24,7 @@ function MyLinks() {
             <a
               className="flex items-center justify-center h-full"
               target="blank"
-              href="https://www.yelp.com/biz/eds-auto-detailing-san-francisco?hrid=ZMWew4GnYslK3juuciNS-w&rh_type=phrase&rh_ident=police"
+              href="https://www.facebook.com/profile.php?id=100087261338904"
             >
               <FaFacebookF className="text-4xl"/>
             </a>
@@ -33,7 +33,7 @@ function MyLinks() {
             <a
               className="flex items-center justify-center h-full"
               target="blank"
-              href="https://www.yelp.com/biz/eds-auto-detailing-san-francisco?hrid=ZMWew4GnYslK3juuciNS-w&rh_type=phrase&rh_ident=police"
+              href="https://www.instagram.com/edsautodetailingsf/?r=nametag"
             >
               <FaInstagram className="text-4xl"/>
             </a>
